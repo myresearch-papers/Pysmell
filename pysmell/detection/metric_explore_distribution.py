@@ -3,6 +3,11 @@ import astChecker
 import util
 import customast
 import numpy as np
+
+import matplotlib
+
+matplotlib.use('TkAgg')
+
 from matplotlib import pyplot
 from parameter import subject_dir
 

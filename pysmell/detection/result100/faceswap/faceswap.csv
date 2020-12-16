@@ -1,0 +1,11 @@
+LargeClass, 6, 0, 1, 6
+ComplexContainerComprehension, 117, 19, 26, 117
+LongTernaryConditionalExpression, 59, 1, 1, 59
+LongMessageChain, 0, 5, 5, 5
+MultiplyNestedContainer, 11, 11, 29, 29
+LongParameterList, 37, 110, 37, 110
+LongLambdaFunction, 5, 2, 2, 5
+LongScopeChaining, 0, 0, 0, 0
+LongMethod, 15, 49, 6, 49
+LongBaseClassList, 0, 0, 0, 0
+total, 250, 197, 107, 380

@@ -1,15 +1,18 @@
-__author__ = 'Zhifei Chen'
+__author__ = 'Joao Correia'
 
-subject_dir = 'C:\Users\JOJO\Desktop\Pysmell\pysmell\subjects\\'
+subject_dir = '/Users/joaocorreia/PycharmProjects/Pysmell/pysmell/subjects'
 directory = {
-    'django': '1.8.2',
-    'numpy': 'v1.9.2',
-    'ipython': 'rel-3.1.0',
-    'boto': '2.38.0',
-    'tornado': 'v4.2.0',
-    'matplotlib': 'v1.4.3',
-    'scipy': 'v0.16.0b2',
-    'nltk':'3.0.2',
-    'ansible': 'v1.9.2-0.1.rc1'
+    "faceswap": "0.0.1",
+    "Detectron": "0.0.1",
+    "Real-Time-Voice-Cloning": "0.0.1",
+    "pix2code": "0.0.1",
+    "neural-talk": "0.0.1"
 }
 
+repositories = {
+    "faceswap": "https://github.com/deepfakes/faceswap.git",
+    "Detectron": "https://github.com/facebookresearch/Detectron.git",
+    "Real-Time-Voice-Cloning": "https://github.com/CorentinJ/Real-Time-Voice-Cloning.git",
+    "pix2code": "https://github.com/tonybeltramelli/pix2code.git",
+    "neural-talk": "https://github.com/karpathy/neuraltalk.git"
+}
